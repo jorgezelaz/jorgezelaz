@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jorgezelaz/jorgezelaz/main/monkeyisland.webp" alt="MonkeyIsland<3">
   <br>
-  <p style="color: green; font-family: 'Courier New', Courier, monospace;">¡Hola! Welcome to my GitHub profile.</p>
-  <p style="color: green; font-family: 'Courier New', Courier, monospace;">This is jorgezelaz, aspiring to be as adventurous and resourceful as my childhood crush ↑.</p>
-  <p style="color: green; font-family: 'Courier New', Courier, monospace;">I'm on a quest to navigate the seas of coding and unlock its hidden treasures.</p>:
+  <pre style="color: green; font-family: 'Courier New', Courier, monospace;">¡Hola! Welcome to my GitHub profile.
+This is jorgezelaz, aspiring to be as adventurous and resourceful as my childhood crush up there.
+I'm on a quest to navigate the seas of coding and unlock its hidden treasures.</pre>
 </div>
 
 <!--
