@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://64.media.tumblr.com/579f6f26b18d99902bd23204f691ded1/2f58206495f7f47b-3e/s1280x384/122364430deaf34ed39f8e18ffa289d7b509b897.gifv" alt="MonkeyIsland<3">
+  <img src="https://raw.githubusercontent.com/jorgezelaz/jorgezelaz/main/monkeyisland.webp" alt="MonkeyIsland<3">
   <br>
-  <p>¡Hola! Welcome to my GitHub profile.</p>
-  <p> This is jorgezelaz, aspiring to be as adventurous and resourceful as my childhood crush ↑.</p> 
-  <p> I'm on a quest to navigate the seas of coding and unlock its hidden treasures. </p>
+  <p style="color: green; font-family: 'Courier New', Courier, monospace;">¡Hola! Welcome to my GitHub profile.</p>
+  <p style="color: green; font-family: 'Courier New', Courier, monospace;">This is jorgezelaz, aspiring to be as adventurous and resourceful as my childhood crush ↑.</p>
+  <p style="color: green; font-family: 'Courier New', Courier, monospace;">I'm on a quest to navigate the seas of coding and unlock its hidden treasures.</p>:
 </div>
 
 <!--
